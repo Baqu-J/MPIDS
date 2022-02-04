@@ -1,0 +1,14 @@
+value 23133.00	time 1.03	gap 86.97
+value 9941.00	time 4.50	gap 6.28
+value 9683.00	time 5.12	gap 3.78
+value 9676.00	time 8.46	gap 3.69
+value 9615.00	time 10.83	gap 0.85
+value 9604.00	time 11.88	gap 0.74
+value 9603.00	time 12.06	gap 0.73
+value 9596.00	time 12.09	gap 0.65
+value 9592.00	time 12.27	gap 0.61
+value 9590.00	time 12.88	gap 0.59
+value 9588.00	time 24.60	gap 0.17
+value 9586.00	time 25.00	gap 0.15
+value 9585.00	time 25.02	gap 0.14
+value 9584.00	time 310.47	gap 0.09
